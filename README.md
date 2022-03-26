@@ -35,7 +35,7 @@
 <a href="https://heroku.com/deploy?template=https://github.com/CyberDarkhacker/LuciferMoringstar-Robot"><img src="https://github.com/PR0FESS0R-https://github.com/CyberDarkhacker/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/20220304_101943.jpg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 
 
-### 📍 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱
+## 📍 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱
 
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
 * `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
